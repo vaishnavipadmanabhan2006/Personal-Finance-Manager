@@ -28,10 +28,16 @@ python finance_manager.py
 Code
 📊 FINANCIAL REPORT for Vaishnavi PS
 ========================================
-Total Income: $5000.00
-Total Expense: $3200.00
-Current Balance: $1800.00
-Savings Rate: 36.0%
+Enter your name: Vaishnavi PS 
+Options: 1) Add Transaction
+2) Report
+3) Exit 
+Choose an option: 1 
+Amount: 5000 
+Category: Salary Type 
+(income/expense):
+income Description: Monthly Salary 
+✅ Transaction added: Monthly Salary - $5000
 --------------------------------------------
 🎈AUTHOR
    VAISHNAVI P S
